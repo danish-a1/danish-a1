@@ -14,9 +14,7 @@
 ![Stars](https://img.shields.io/badge/Stars-2-FFAC33?style=for-the-badge&logo=github&logoColor=white)<br/>
 
 # 🔀 Pull Requests — 2026:
-![Merged](https://img.shields.io/badge/Merged-292-8957E5?style=for-the-badge&logo=github&logoColor=white)
-![Closed](https://img.shields.io/badge/Closed-19-CF222E?style=for-the-badge&logo=github&logoColor=white)
-![Open](https://img.shields.io/badge/Open-2-2DA44E?style=for-the-badge&logo=github&logoColor=white)<br/>
+![Pull Requests 2026](./assets/pr-stats.svg)<br/>
 
 # 🔥 Streak:
 ![](https://streak-stats.demolab.com/?user=danish-a1&theme=dark&hide_border=false)

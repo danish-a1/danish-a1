@@ -1,0 +1,35 @@
+<svg width="495" height="195" viewBox="0 0 495 195" fill="none" xmlns="http://www.w3.org/2000/svg" role="img">
+  <style>
+    .num   { font: 800 34px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+    .label { font: 700 14px 'Segoe UI', Ubuntu, sans-serif; fill: #e6edf3; }
+    .sub   { font: 400 12px 'Segoe UI', Ubuntu, sans-serif; fill: #7d8590; }
+    .accent{ fill: #fb8c00; }
+    .accnum{ font: 800 34px 'Segoe UI', Ubuntu, sans-serif; fill: #fb8c00; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="494" height="194" rx="14" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- dividers -->
+  <line x1="165" y1="45" x2="165" y2="150" stroke="#30363d" stroke-width="1"/>
+  <line x1="330" y1="45" x2="330" y2="150" stroke="#30363d" stroke-width="1"/>
+
+  <!-- LEFT: total PRs -->
+  <text x="82" y="92"  class="num"   text-anchor="middle">313</text>
+  <text x="82" y="120" class="label" text-anchor="middle">Total PRs</text>
+  <text x="82" y="142" class="sub"   text-anchor="middle">Jan 1 – Jul 23, 2026</text>
+
+  <!-- CENTER: merged, in ring -->
+  <circle cx="247" cy="92" r="40" fill="none" stroke="#30363d" stroke-width="6"/>
+  <circle cx="247" cy="92" r="40" fill="none" stroke="#fb8c00" stroke-width="6"
+          stroke-linecap="round" stroke-dasharray="234" stroke-dashoffset="16"
+          transform="rotate(-90 247 92)"/>
+  <text x="247" y="46" class="accent" text-anchor="middle" font-size="18">🔥</text>
+  <text x="247" y="104" class="num" text-anchor="middle">292</text>
+  <text x="247" y="152" class="label" text-anchor="middle" fill="#fb8c00">Merged</text>
+  <text x="247" y="172" class="sub" text-anchor="middle">93% merge rate</text>
+
+  <!-- RIGHT: open / closed -->
+  <text x="412" y="92"  class="num"   text-anchor="middle">2</text>
+  <text x="412" y="120" class="label" text-anchor="middle">Open</text>
+  <text x="412" y="142" class="sub"   text-anchor="middle">19 closed unmerged</text>
+</svg>
