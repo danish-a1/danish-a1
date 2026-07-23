@@ -23,6 +23,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=tokyonight)
 
 ---
-[![](https://komarev.com/ghpvc/?username=danish-a1&icon=1&color=2)](https://visitcount.itsvg.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=danish-a1&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/danish-a1)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
